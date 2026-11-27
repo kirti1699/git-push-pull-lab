@@ -1,3 +1,5 @@
 This is a notes file.
 
 This line was added on GitHub.
+
+This is another line.
