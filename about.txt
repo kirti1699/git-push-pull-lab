@@ -1,2 +1,3 @@
 Name=Kittu, Profile=Devops
 I am learning devops.
+Working with git pull & push model.
