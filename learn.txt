@@ -1,2 +1,3 @@
 Git is fun
 Git is very interesting.
+Use git in a very easy way.
